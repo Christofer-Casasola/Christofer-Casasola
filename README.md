@@ -8,9 +8,9 @@ Soy desarrollador de software con experiencia en backend y frontend, especializa
 He trabajado en proyectos universitarios, freelance y práctica supervisada, donde participé en:
 
 - Análisis y depuración de repositorios
-- Diseño de modelos de datos
-- Propuesta de arquitectura para nuevos sistemas
-- Desarrollo de módulos empresariales
+- Propuestas visuales para los sistemas
+- Desarrollo de módulos
+- Diagramación y diseño de bases de datos
 
 Me apasiona crear soluciones que optimicen procesos y aplicar buenas prácticas de desarrollo con metodologías ágiles.
 
@@ -21,7 +21,6 @@ Me apasiona crear soluciones que optimicen procesos y aplicar buenas prácticas 
 ### **Lenguajes**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### **Frameworks y Librerías**
@@ -33,6 +32,7 @@ Me apasiona crear soluciones que optimicen procesos y aplicar buenas prácticas 
 
 ### **Bases de datos**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### **Herramientas**
@@ -57,13 +57,16 @@ Proyecto universitario con enfoque administrativo y comercial.
 ### 🔹 Sistema de Ventas para Tienda de Ropa (Java)
 Incluye inventarios, ventas y registros administrativos.
 
+### 🔹 Sistema de Ventas para Distribuidora de productos de mascota (Laravel)
+Gestión administrativa, facturas, abonos, productos, perfiles de usuario y seccion de pedidos.
+
 ---
 
 ## 🧪 Experiencia
 
-### **Práctica Supervisada – Universidad de Costa Rica**
+### **Práctica Supervisada – KuacrTech Solutions**
 - Análisis, depuración y documentación de repositorios.
-- Diseño conceptual para un nuevo sistema institucional.
+- Diseño inicial para un nuevo sistema interno.
 - Propuestas técnicas para mejorar el control de versiones y procesos internos.
 
 ### **Asistencia Administrativa – UCR**
@@ -73,7 +76,7 @@ Incluye inventarios, ventas y registros administrativos.
 
 ## 🎓 Educación
 **Universidad de Costa Rica – Informática Empresarial**  
-Graduado (Título en trámite)
+Bachiller Universitario Finalizado (Título en trámite)
 
 ---
 
@@ -87,14 +90,4 @@ Graduado (Título en trámite)
 
 📧 **Correo:** chrisprojectscr@gmail.com  
 📞 **Teléfono:** 8339-5059  
-📍 **Ubicación:** La Alegría, Siquirres, Costa Rica  
-
----
-
-## ⭐ Estadísticas de GitHub
-
-> *(Opcional: activa tu perfil público para que se vean las stats)*
-
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+📍 **Ubicación:** La Alegría, Siquirres, Costa Rica
